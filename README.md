@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Ramitos3001
 
-<!--
-**Ramitos3001/Ramitos3001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Técnico en formación en **Análisis y Desarrollo de Software** (SENA).  
+💡 Estoy dando mis primeros pasos en el mundo de la programación con muchas ganas de aprender y crecer.
 
-Here are some ideas to get you started:
+## 🚀 Objetivo
+Encontrar mi primera experiencia laboral en el sector TI, donde pueda seguir aprendiendo, aportar y evolucionar como profesional.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Conocimientos básicos
+- HTML y CSS (nivel inicial)
+- Lógica de programación
+- Git y GitHub
+- Python (conociendo lo básico)
+
+## 📈 Actualmente...
+- Estudio en el SENA
+- Desarrollo proyectos sencillos para practicar
+- Estoy creando mi portafolio en GitHub
+
+## 📫 Contacto
+📍 Colombia  
+
+Gracias por visitar mi perfil 🙌  
+¡Seguimos aprendiendo!
